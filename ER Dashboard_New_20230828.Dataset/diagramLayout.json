@@ -1,0 +1,634 @@
+{
+  "version": "1.1.0",
+  "diagrams": [
+    {
+      "ordinal": 0,
+      "scrollPosition": {
+        "x": 170.04660329511088,
+        "y": 0
+      },
+      "nodes": [
+        {
+          "location": {
+            "x": 595.40229885057477,
+            "y": 3.4482758620689644
+          },
+          "nodeIndex": "State and Territory",
+          "nodeLineageTag": "6c7ac352-727a-4428-9b74-d7b34a42c1fb",
+          "size": {
+            "height": 180.32183908045977,
+            "width": 234
+          },
+          "zIndex": 29
+        },
+        {
+          "location": {
+            "x": 345.14482057067158,
+            "y": 334.48275862068976
+          },
+          "nodeIndex": "Date",
+          "nodeLineageTag": "8a70d644-f3ce-4ded-bd1c-5e0a5c177e9c",
+          "size": {
+            "height": 104,
+            "width": 234
+          },
+          "zIndex": 30,
+          "expandedHeight": 300
+        },
+        {
+          "location": {
+            "x": 2899.7608083055243,
+            "y": 0
+          },
+          "nodeIndex": "Measure Table",
+          "nodeLineageTag": "5481a74a-e39b-45dd-9759-5131537144d4",
+          "size": {
+            "height": 124,
+            "width": 166.25806451612925
+          },
+          "zIndex": 31
+        },
+        {
+          "location": {
+            "x": 587.043632559941,
+            "y": 600
+          },
+          "nodeIndex": "Job Seeker and Youth Allowance",
+          "nodeLineageTag": "4c1838cd-02ae-47fd-ba65-50363e67841a",
+          "size": {
+            "height": 128,
+            "width": 234
+          },
+          "zIndex": 36,
+          "expandedHeight": 300
+        },
+        {
+          "location": {
+            "x": 1069.3077375740841,
+            "y": 0
+          },
+          "nodeIndex": "State Rank Table",
+          "nodeLineageTag": "fffcee80-f1ba-463f-bd2f-45dfdaa017c7",
+          "size": {
+            "height": 104,
+            "width": 240.89655172413791
+          },
+          "zIndex": 35,
+          "expandedHeight": 128
+        },
+        {
+          "location": {
+            "x": 662.816091954023,
+            "y": 214.94252873563215
+          },
+          "nodeIndex": "Table 1",
+          "nodeLineageTag": "14da4a14-2514-445a-89d0-04b3d091d34e",
+          "size": {
+            "height": 128,
+            "width": 234
+          },
+          "zIndex": 32,
+          "expandedHeight": 176
+        },
+        {
+          "location": {
+            "x": 1039.9298569953303,
+            "y": 513.79310344827582
+          },
+          "nodeIndex": "Stateyouthdata",
+          "nodeLineageTag": "43a39b7d-d7d6-4b88-aabb-e00efb80fa49",
+          "size": {
+            "height": 128,
+            "width": 231.70114942528744
+          },
+          "zIndex": 33,
+          "expandedHeight": 200
+        },
+        {
+          "location": {
+            "x": 1333.4281749506108,
+            "y": 541.37931034482745
+          },
+          "nodeIndex": "Statedata_SA",
+          "nodeLineageTag": "a69aa08e-ac39-4a4a-9aa0-65e7f8af8108",
+          "size": {
+            "height": 248,
+            "width": 234
+          },
+          "zIndex": 34
+        },
+        {
+          "location": {
+            "x": 1049.7528735632186,
+            "y": 672.41379310344837
+          },
+          "nodeIndex": "Lfdata_SA",
+          "nodeLineageTag": "bd768b26-df53-4986-a394-5be3c8f0a6ee",
+          "size": {
+            "height": 104,
+            "width": 212.16091954022988
+          },
+          "zIndex": 28,
+          "expandedHeight": 214.52873563218395
+        },
+        {
+          "location": {
+            "x": 0,
+            "y": 613.681868743048
+          },
+          "nodeIndex": "Local Government Area (LGA) (2022 ASGS) (Smoothed LGA unemployment rates)",
+          "nodeLineageTag": "7d0b0b42-a000-4f92-b8f0-c543fbb07cdf",
+          "size": {
+            "height": 152,
+            "width": 291.47126436781605
+          },
+          "zIndex": 37,
+          "expandedHeight": 290.80459770114953
+        },
+        {
+          "location": {
+            "x": 0,
+            "y": 0.94549499443826335
+          },
+          "nodeIndex": "State & ER",
+          "nodeLineageTag": "5941ce6a-6e44-4053-b56b-6e2f5a5365fd",
+          "size": {
+            "height": 208.25806451612902,
+            "width": 234
+          },
+          "zIndex": 43
+        },
+        {
+          "location": {
+            "x": 9.6774193548387046,
+            "y": 327.41935483870964
+          },
+          "nodeIndex": "LGA & ER",
+          "nodeLineageTag": "cb328791-b71a-4454-ab1e-d0c195adbbdc",
+          "size": {
+            "height": 124,
+            "width": 175.33481646273637
+          },
+          "zIndex": 22
+        },
+        {
+          "location": {
+            "x": 0,
+            "y": 839.080459770115
+          },
+          "nodeIndex": "LGA",
+          "nodeLineageTag": "df310a36-3192-485b-bc8d-73e83e05217e",
+          "size": {
+            "height": 128,
+            "width": 234
+          },
+          "zIndex": 23
+        },
+        {
+          "location": {
+            "x": 1626.6714080459769,
+            "y": 575.86206896551721
+          },
+          "nodeIndex": "SA4",
+          "nodeLineageTag": "d9d93b58-8f28-413a-876e-de4ebb2b6c85",
+          "size": {
+            "height": 128,
+            "width": 234
+          },
+          "zIndex": 24
+        },
+        {
+          "location": {
+            "x": 1241.6470152020763,
+            "y": 173.41490545050056
+          },
+          "nodeIndex": "State ER SA4",
+          "nodeLineageTag": "d1cf4abd-37b6-497a-9474-ad9cfabd9651",
+          "size": {
+            "height": 140.367816091954,
+            "width": 234
+          },
+          "zIndex": 25
+        },
+        {
+          "location": {
+            "x": 348.7045977011494,
+            "y": 697.70114942528733
+          },
+          "nodeIndex": "Data1 - National",
+          "size": {
+            "height": 104,
+            "width": 211.01149425287349
+          },
+          "zIndex": 26,
+          "expandedHeight": 124
+        },
+        {
+          "location": {
+            "x": 1484.8987764182425,
+            "y": 252.92918057100482
+          },
+          "nodeIndex": "Data 1 ER",
+          "nodeLineageTag": "8a9becd7-dec4-4537-92ed-cbadbd3ce8b2",
+          "size": {
+            "height": 268.96551724137942,
+            "width": 273.0804597701142
+          },
+          "zIndex": 27
+        },
+        {
+          "location": {
+            "x": 2931.8098998887654,
+            "y": 158.06451612903226
+          },
+          "nodeIndex": "TopN",
+          "nodeLineageTag": "e7ae4ffe-7ff4-4490-a9e3-f38b14b41bed",
+          "size": {
+            "height": 176,
+            "width": 235.6129032258068
+          },
+          "zIndex": 46
+        },
+        {
+          "location": {
+            "x": 1244.8468761586946,
+            "y": 925.26881720430117
+          },
+          "nodeIndex": "Youth Unemployment Rate",
+          "nodeLineageTag": "d1c67bdb-887b-4b16-b6bc-a07f38f65f26",
+          "size": {
+            "height": 128,
+            "width": 234
+          },
+          "zIndex": 38,
+          "expandedHeight": 322.98850574712645
+        },
+        {
+          "location": {
+            "x": 155.04516129032294,
+            "y": 970.77419354838707
+          },
+          "nodeIndex": "Employed",
+          "nodeLineageTag": "050d7c2d-31ff-40d5-8711-1e1e5513e975",
+          "size": {
+            "height": 213.29032258064512,
+            "width": 234
+          },
+          "zIndex": 20
+        },
+        {
+          "location": {
+            "x": 1851.4763070077865,
+            "y": 813.97849462365582
+          },
+          "nodeIndex": "Participation Rate",
+          "nodeLineageTag": "8cdc61ad-4770-4297-b6ed-5a0d9d57aec8",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 40
+        },
+        {
+          "location": {
+            "x": 1554.87816091954,
+            "y": 961.84649610678525
+          },
+          "nodeIndex": "Unemployed",
+          "nodeLineageTag": "4afa8b44-2573-4e22-9c70-6c718a94b963",
+          "size": {
+            "height": 185.05747126436779,
+            "width": 171.93103448275861
+          },
+          "zIndex": 39
+        },
+        {
+          "location": {
+            "x": 516.14233870967746,
+            "y": 953.22580645161281
+          },
+          "nodeIndex": "Unemployment Rate",
+          "nodeLineageTag": "51d44fb2-ac22-428f-95c3-999f20fa9d64",
+          "size": {
+            "height": 128,
+            "width": 234
+          },
+          "zIndex": 21,
+          "expandedHeight": 300
+        },
+        {
+          "location": {
+            "x": 2369.8612903225808,
+            "y": 9.6774193548387082
+          },
+          "nodeIndex": "IVI_SklLev_Dist_CM",
+          "nodeLineageTag": "42efca30-591d-4a3b-bf3f-8a9bbed8e387",
+          "size": {
+            "height": 272,
+            "width": 234
+          },
+          "zIndex": 18
+        },
+        {
+          "location": {
+            "x": 2610.6258064516132,
+            "y": 959.67741935483878
+          },
+          "nodeIndex": "IVI_4digitOccs_CM",
+          "nodeLineageTag": "9f70ccf7-a75f-4ac9-a3cb-1828d41dfce3",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 19
+        },
+        {
+          "location": {
+            "x": 1840.2774193548373,
+            "y": 54.838709677419345
+          },
+          "nodeIndex": "IVI_TS_chart_data",
+          "nodeLineageTag": "e40f267d-7197-427e-81d4-36fb59dfd42f",
+          "size": {
+            "height": 272,
+            "width": 234
+          },
+          "zIndex": 45
+        },
+        {
+          "location": {
+            "x": 972.33221868699661,
+            "y": 204.8387096774193
+          },
+          "nodeIndex": "Table 3",
+          "nodeLineageTag": "c4fb8807-4634-44e4-b27a-5ed2d9047124",
+          "size": {
+            "height": 203.22580645161287,
+            "width": 237.22580645161315
+          },
+          "zIndex": 41
+        },
+        {
+          "location": {
+            "x": 4302.5914094002019,
+            "y": 64.516129032258164
+          },
+          "nodeIndex": "SA2 to ER",
+          "nodeLineageTag": "c0484dc7-60cb-4930-b86f-2ac4538982cb",
+          "size": {
+            "height": 72,
+            "width": 234
+          },
+          "zIndex": 42,
+          "expandedHeight": 176
+        },
+        {
+          "location": {
+            "x": 2177.3659274193546,
+            "y": 976
+          },
+          "nodeIndex": "Table 5 - By SA2 (Append) ER",
+          "nodeLineageTag": "2854791d-611a-4654-8385-2c529186d7c5",
+          "size": {
+            "height": 248,
+            "width": 234
+          },
+          "zIndex": 7
+        },
+        {
+          "location": {
+            "x": 5985.8225806451619,
+            "y": 0
+          },
+          "nodeIndex": "Table 5 - By SA2 Jan- 23 ER",
+          "size": {
+            "height": 72,
+            "width": 234
+          },
+          "zIndex": 8,
+          "expandedHeight": 300
+        },
+        {
+          "location": {
+            "x": 5996.2161290322574,
+            "y": 90.322580645161338
+          },
+          "nodeIndex": "Table 5 - By SA2 Feb- 23 ER",
+          "size": {
+            "height": 72,
+            "width": 234
+          },
+          "zIndex": 9,
+          "expandedHeight": 343.741935483871
+        },
+        {
+          "location": {
+            "x": 6004.9967741935479,
+            "y": 175.80645161290317
+          },
+          "nodeIndex": "Table 5 - By SA2 Mar- 23 ER",
+          "size": {
+            "height": 72,
+            "width": 234
+          },
+          "zIndex": 10,
+          "expandedHeight": 321.16129032258061
+        },
+        {
+          "location": {
+            "x": 6005.438709677419,
+            "y": 264.51612903225816
+          },
+          "nodeIndex": "Table 5 - By SA2 Apr- 23 ER",
+          "size": {
+            "height": 72,
+            "width": 234
+          },
+          "zIndex": 11,
+          "expandedHeight": 300
+        },
+        {
+          "location": {
+            "x": 6010.9935483870968,
+            "y": 356.45161290322579
+          },
+          "nodeIndex": "Table 5 - By SA2 May- 23 ER",
+          "size": {
+            "height": 72,
+            "width": 234
+          },
+          "zIndex": 12,
+          "expandedHeight": 309.87096774193549
+        },
+        {
+          "location": {
+            "x": 4258.209677419356,
+            "y": 198.38709677419359
+          },
+          "nodeIndex": "Table 5 - By SA2 Jun- 23 ER",
+          "nodeLineageTag": "51fb6473-8db3-452f-9ef4-3830b827f234",
+          "size": {
+            "height": 72,
+            "width": 234
+          },
+          "zIndex": 13,
+          "expandedHeight": 300
+        },
+        {
+          "location": {
+            "x": 6300.4032258064517,
+            "y": 0
+          },
+          "nodeIndex": "Table 3 - By State Jan Feb- 23 State/National",
+          "nodeLineageTag": "8ebc80f6-6230-49ba-ae0b-1859ab52651d",
+          "size": {
+            "height": 72,
+            "width": 234
+          },
+          "zIndex": 14,
+          "expandedHeight": 152
+        },
+        {
+          "location": {
+            "x": 6298.9193548387093,
+            "y": 99.806451612903174
+          },
+          "nodeIndex": "Table 3 - By State Mar Apr-23 State/National",
+          "nodeLineageTag": "61168a71-ef24-4a4b-9e59-4a362015f6d7",
+          "size": {
+            "height": 72,
+            "width": 234
+          },
+          "zIndex": 15,
+          "expandedHeight": 152
+        },
+        {
+          "location": {
+            "x": 6299.0483870967746,
+            "y": 196.58064516129031
+          },
+          "nodeIndex": "Table 3 - By State May Jun-23 State/National",
+          "nodeLineageTag": "1276c328-04e0-4766-8bb0-845f670da0c5",
+          "size": {
+            "height": 72,
+            "width": 234
+          },
+          "zIndex": 16,
+          "expandedHeight": 152
+        },
+        {
+          "location": {
+            "x": 933.04838709677483,
+            "y": 1046.5806451612902
+          },
+          "nodeIndex": "Table 3 - By State (Append)",
+          "nodeLineageTag": "a5959eb4-cce5-46ef-a98f-fa22f4b831eb",
+          "size": {
+            "height": 152,
+            "width": 234
+          },
+          "zIndex": 17
+        },
+        {
+          "location": {
+            "x": 2569.0302419354848,
+            "y": 375.61290322580646
+          },
+          "nodeIndex": "Skill Description",
+          "nodeLineageTag": "b424e4b9-84c8-4c59-aa77-5c8158c26f82",
+          "size": {
+            "height": 192.51612903225805,
+            "width": 280.7741935483873
+          },
+          "zIndex": 6
+        },
+        {
+          "location": {
+            "x": 2024.7258064516127,
+            "y": 244.45161290322574
+          },
+          "nodeIndex": "Smoothed SA2 labour force",
+          "nodeLineageTag": "118c4cae-a5a2-47fb-abe3-9d8548a0bb8f",
+          "size": {
+            "height": 188.70967741935488,
+            "width": 234
+          },
+          "zIndex": 3
+        },
+        {
+          "location": {
+            "x": 1978.0806451612898,
+            "y": 500.90322580645142
+          },
+          "nodeIndex": "Smoothed SA2 unemployment",
+          "nodeLineageTag": "1a0e7c8e-556d-44d7-b421-49e272ed7e00",
+          "size": {
+            "height": 153.22580645161293,
+            "width": 234
+          },
+          "zIndex": 4
+        },
+        {
+          "location": {
+            "x": 2239.5000000000009,
+            "y": 691.22580645161281
+          },
+          "nodeIndex": "Smoothed SA2 unemployment rate",
+          "nodeLineageTag": "c26ee81b-92e8-4704-b123-5859a5385a7a",
+          "size": {
+            "height": 206.45161290322562,
+            "width": 234
+          },
+          "zIndex": 44
+        },
+        {
+          "location": {
+            "x": 1411.1775768649193,
+            "y": 0
+          },
+          "nodeIndex": "6 SA2 based ERs",
+          "nodeLineageTag": "b6f7772c-aa9e-4087-8a73-878a8aab2f55",
+          "size": {
+            "height": 152,
+            "width": 234
+          },
+          "zIndex": 5
+        },
+        {
+          "location": {
+            "x": 3079.5645161290327,
+            "y": 397.19354838709683
+          },
+          "nodeIndex": "6 ERs Date",
+          "nodeLineageTag": "1435f7bc-c9a8-4d17-8134-34d5ed4e5e83",
+          "size": {
+            "height": 104,
+            "width": 234
+          },
+          "zIndex": 1
+        },
+        {
+          "location": {
+            "x": 1877.9516129032256,
+            "y": 387.09677419354841
+          },
+          "nodeIndex": "Date Rank IVI",
+          "nodeLineageTag": "93fc2fb6-a655-4d81-9e61-a91d3ecbe170",
+          "size": {
+            "height": 128,
+            "width": 234
+          },
+          "zIndex": 2
+        }
+      ],
+      "name": "All tables",
+      "zoomValue": 62,
+      "pinKeyFieldsToTop": false,
+      "showExtraHeaderInfo": false,
+      "hideKeyFieldsWhenCollapsed": false,
+      "tablesLocked": false
+    }
+  ],
+  "selectedDiagram": "All tables",
+  "defaultDiagram": "All tables"
+}
